@@ -31,3 +31,6 @@ The car change lanes when the there is a slow car in front of it, and it is safe
 Here is a picture of the car driving 15 miles with no incident.
 
 <img src="15_miles.png" alt="sim_pic">
+
+## Reflection
+
