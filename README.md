@@ -28,6 +28,6 @@ The car stays in its lane most of the time but when it changes lane because of t
 ### The car is able to change lanes
 The car change lanes when the there is a slow car in front of it, and it is safe to change lanes (no other cars around) or when it is safe to return the center lane.
 
-Here is a picture of the car driving 20 miles with no incident.
+Here is a picture of the car driving 15 miles with no incident.
 
 <img src="15_miles.png" alt="sim_pic">
